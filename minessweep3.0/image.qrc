@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/excited.png</file>
+        <file>pic/flag.png</file>
+        <file>pic/happy.png</file>
+        <file>pic/icon.ico</file>
+        <file>pic/mine.png</file>
+        <file>pic/mine1.png</file>
+        <file>pic/mine2.png</file>
+        <file>pic/mine3.png</file>
+        <file>pic/question.png</file>
+        <file>pic/sad.png</file>
+        <file>pic/success.png</file>
+    </qresource>
+</RCC>

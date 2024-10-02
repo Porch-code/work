@@ -1,0 +1,12 @@
+release/configdialog.o
+release/infodialog.o
+release/main.o
+release/mineframe.o
+release/playframe.o
+release/mainwindow.o
+release/qrc_image.o
+release/moc_configdialog.o
+release/moc_infodialog.o
+release/moc_mainwindow.o
+release/moc_mineframe.o
+release/moc_playframe.o

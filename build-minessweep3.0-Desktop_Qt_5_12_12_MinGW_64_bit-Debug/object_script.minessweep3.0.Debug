@@ -1,0 +1,12 @@
+debug/configdialog.o
+debug/infodialog.o
+debug/main.o
+debug/mineframe.o
+debug/playframe.o
+debug/mainwindow.o
+debug/qrc_image.o
+debug/moc_configdialog.o
+debug/moc_infodialog.o
+debug/moc_mainwindow.o
+debug/moc_mineframe.o
+debug/moc_playframe.o
